@@ -34,7 +34,6 @@ A clone of the popular typing test website [monkeytype](https://monkeytype.com/)
 - **Frontend**: [React](https://react.dev/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **AI**: [Google Gemini API](https://ai.google.dev/) for quote generation.
 - **Charts**: [Recharts](https://recharts.org/) for visualizing test results.
 
 ## Getting Started
